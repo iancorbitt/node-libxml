@@ -9,7 +9,7 @@
   ],
   "repository" : {
     "type" : "git",
-    "url" : "http://github.com/ajaxorg/node-libxml.git" 
+    "url" : "http://github.com/iancorbitt/node-libxml.git" 
   },
   "devDependencies": {
   },
